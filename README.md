@@ -32,5 +32,5 @@ My name is Mohamed Shalaby and I'm a *Back-End Developer (ASP.NET)* & *Data Anal
 ---
 
 ## 📫 Connect with me
-- 💼 [LinkedIn](www.linkedin.com/in/mohamed-shalaby12)
+- 💼 [LinkedIn](https://www.linkedin.com/in/mohamed-shalaby12)
 - 📧 mshalaby224@gmail.com
